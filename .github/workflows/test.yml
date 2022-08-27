@@ -27,5 +27,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run faru test script
-        run: python .github/test_config/blob/main/test.py
+        run: python .github/test_config/test.py
 
